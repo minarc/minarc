@@ -1,4 +1,4 @@
-# 👋🏻 minarc profile
+# 👋🏻 A craftsman, minarc
 
 
 
