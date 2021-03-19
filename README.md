@@ -1,7 +1,6 @@
-# 👋🏻 A craftsman, minarc
+# 👋🏻 A craftsman, minarc 🛠
 
-
-
+Hi, I love to drawing, developing, writing all the things about crafting.
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 
