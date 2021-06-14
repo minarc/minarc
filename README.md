@@ -5,6 +5,9 @@ I originally majored in art, but now I am a software engineer. Just like drawing
 私はもともとアートを専攻していましたが、現在はソフトウェアエンジニアです。 絵を描くように、ソフトウェアを美しくしたい。 アートとエンジニアリングはとても違うと言う人もいますが、私は何かを作るという行為が大好きなエンジニアです。 絵画であれ工学であれ、「クラフト」という言葉は私のアイデンティティを一言でまとめることができると言えます。 最近、私は感情を定量化して分析し、テキストから感情を読み取る方法を研究することに興味があります。
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+
 [![Go Badge](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white)](https://https://golang.org/)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python&logoColor=white)](https://https://golang.org/)
@@ -13,3 +16,4 @@ I originally majored in art, but now I am a software engineer. Just like drawing
 [![Flutter Badge](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)]()
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/youhomin/)](https://www.linkedin.com/in/youhomin/)
+
