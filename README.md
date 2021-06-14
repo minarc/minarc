@@ -1,8 +1,8 @@
 # 👋🏻 A craftsman, minarc 🛠
 
-Hi, I love to drawing, developing, writing all the things about crafting.
+I originally majored in art, but now I am a software engineer. Just like drawing, I want to make software beautiful. Some people says Art and Engineering are so different but I'm an engineer who loves the act of making something. Whether painting or engineering, I can say that the word "CRAFTING" can sum up my identity in one word. Recently, I am interested in quantifying and analyzing emotions and studying how to read emotions from text.
 
-私もGithubをやっていますが、実際には美術学校で勉強しています。 しかし、なんらかの理由で突然コンピュータサイエンスに陥りました。
+私はもともとアートを専攻していましたが、現在はソフトウェアエンジニアです。 絵を描くように、ソフトウェアを美しくしたい。 アートとエンジニアリングはとても違うと言う人もいますが、私は何かを作るという行為が大好きなエンジニアです。 絵画であれ工学であれ、「クラフト」という言葉は私のアイデンティティを一言でまとめることができると言えます。 最近、私は感情を定量化して分析し、テキストから感情を読み取る方法を研究することに興味があります。
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Go Badge](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white)](https://https://golang.org/)
