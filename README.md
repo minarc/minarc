@@ -1,3 +1,4 @@
+
 # 👋🏻 A craftsman, minarc 🛠
 
 I originally majored in art, but now I am a software engineer. Just like drawing, I want to make software beautiful. Some people says Art and Engineering are so different but I'm an engineer who loves the act of making something. Whether painting or engineering, I can say that the word "CRAFTING" can sum up my identity in one word. Recently, I am interested in quantifying and analyzing emotions and studying how to read emotions from text.
@@ -17,3 +18,6 @@ I originally majored in art, but now I am a software engineer. Just like drawing
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/youhomin/)](https://www.linkedin.com/in/youhomin/)
 
+
+# 👩🏻‍🎨 Line works
+<img src="https://user-images.githubusercontent.com/11865340/121901481-667e3100-cd61-11eb-843b-4121ad5d46c2.jpg" width="320">
