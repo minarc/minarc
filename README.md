@@ -10,3 +10,5 @@ Hi, I love to drawing, developing, writing all the things about crafting.
 [![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python&logoColor=white)](https://https://golang.org/)
 [![Vue Badge](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)](https://vuejs.org/)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
+
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/youhomin/)](https://www.linkedin.com/in/youhomin/)
