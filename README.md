@@ -20,4 +20,9 @@ I originally majored in art, but now I am a software engineer. Just like drawing
 
 
 # 👩🏻‍🎨 Line works
-<img src="https://user-images.githubusercontent.com/11865340/121901481-667e3100-cd61-11eb-843b-4121ad5d46c2.jpg" width="320">
+<p float="left">
+<img src="https://user-images.githubusercontent.com/11865340/121901481-667e3100-cd61-11eb-843b-4121ad5d46c2.jpg" width="270">
+<img src="https://user-images.githubusercontent.com/11865340/121902064-edcba480-cd61-11eb-81c8-4597519d3710.jpg" width="260">
+<img src="https://user-images.githubusercontent.com/11865340/121902110-f8863980-cd61-11eb-8542-46be13d46a1c.jpg" width="260">
+</p>
+
