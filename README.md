@@ -3,7 +3,7 @@
 
 Craftsman of both software engineering and art. Love blending the two disciplines to create something beautiful. Quantifying emotions is my new interest. Art and engineering - two sides of the same coin.
 
-私はもともとアートを専攻していましたが、現在はソフトウェアエンジニアです。 絵を描くように、ソフトウェアを美しくしたい。 アートとエンジニアリングはとても違うと言う人もいますが、私は何かを作るという行為が大好きなエンジニアです。 絵画であれ工学であれ、「クラフト」という言葉は私のアイデンティティを一言でまとめることができると言えます。 最近、私は感情を定量化して分析し、テキストから感情を読み取る方法を研究することに興味があります。
+ソフトウェアエンジニアリングとアートの両方の職人。二つの分野を組み合わせて美しいものを作ることが好きです。感情を定量化するのが私の新しい関心です。
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
