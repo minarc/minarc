@@ -14,9 +14,6 @@ Craftsman of both software engineering and art. Love blending the two discipline
 [![Vue Badge](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)](https://vuejs.org/)
 [![Flutter Badge](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)]()
 
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/youhomin/)](https://www.linkedin.com/in/youhomin/)
-
-
 ### 👩🏻‍🎨 Line works
 <p float="left">
 <img src="https://user-images.githubusercontent.com/11865340/121901481-667e3100-cd61-11eb-843b-4121ad5d46c2.jpg" width="232">
