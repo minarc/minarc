@@ -7,7 +7,6 @@ Craftsman of both software engineering and art. Love blending the two discipline
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
-[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 
 [![Go Badge](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white)](https://https://golang.org/)
 [![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python&logoColor=white)](https://https://golang.org/)
